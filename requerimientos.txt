@@ -1,0 +1,7 @@
+pagina principal 1-4
+registro y login
+aceptar redirecciona
+
+texto unificar justificacion
+css puntos
+cambiar por bootstrap
