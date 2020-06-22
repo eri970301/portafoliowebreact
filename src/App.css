@@ -3,7 +3,7 @@
   flex-direction: row;
   background-color: #F44336;
 }
-.nav{
+.nav_color{
   background-color: #D32F2F;
 }
 .row3{
@@ -12,11 +12,20 @@
   min-height: 100vh;
   margin: auto;
 }
+.text{
+  font-size: 1.8em;
+  color: #503434;
+}
 .triangle {
   background: #F44336;
 }
 .img_me{
   width: 20vw;
+}
+.img-services{
+  margin-top: 30px;
+  width: 120px;
+  border-radius: 50%;
 }
 .img_works{
   width: 20vw;
