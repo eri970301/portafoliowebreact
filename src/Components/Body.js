@@ -74,7 +74,7 @@ class Body extends Component {
           <div className="col-12 text-center elements">
             <h2 className="mt-5">Mis trabajos</h2>
           </div>
-          <Row className="p-3 mt-3">
+          <Row className="p-3 mt-5">
             <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-3">
               <div className="hovereffect">
                 <img className="img-responsive" src={document} alt="" />
