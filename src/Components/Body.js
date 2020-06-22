@@ -48,7 +48,7 @@ class Body extends Component {
         <div className="min-vh-100 vw-100 triangle" id="servicios">
           <Row className="container-fluid">
             <div className="col-12 mt-5">
-              <h1 className="text-center">Mis servicios</h1>
+              <h2 className="text-center">Mis servicios</h2>
             </div>
             <Row className="m-auto h-100">
               <div className="col-4 mb-3">
@@ -72,9 +72,9 @@ class Body extends Component {
         </div>
         <Row className="row3" id="mistrabajos">
           <div className="col-12 text-center elements">
-            <h1 className="mt-5">Mis trabajos</h1>
+            <h2 className="mt-5">Mis trabajos</h2>
           </div>
-          <Row className="p-3 mt-5">
+          <Row className="p-3 mt-3">
             <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-3">
               <div className="hovereffect">
                 <img className="img-responsive" src={document} alt="" />

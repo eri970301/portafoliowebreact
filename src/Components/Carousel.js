@@ -36,8 +36,8 @@ class Carouselcomponent extends Component {
               alt="First slide"
             />
             <Carousel.Caption className="text-right h-50">
-              <h3>Impacto social</h3>
-              <p> Podemos cambiar el mundo de las personas dando a conocer lo que tenemos para contribuir a mejorar nuestra vida. </p>
+              <h2>Impacto social</h2>
+              <p className="text"> Podemos cambiar el mundo de las personas dando a conocer lo que tenemos para contribuir a mejorar nuestra vida. </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item className="row vh-100">
@@ -47,9 +47,8 @@ class Carouselcomponent extends Component {
               alt="Second slide"
             />
             <Carousel.Caption className="text-right h-50">
-              <h3>Adaptación
-                </h3>
-              <p>El mundo se está transformando constantemente, movilizandonos a formas nuevas de interactuar.
+              <h2>Adaptación</h2>
+              <p className="text">El mundo se está transformando constantemente, movilizandonos a formas nuevas de interactuar.
                 </p>
             </Carousel.Caption>
           </Carousel.Item>
@@ -61,8 +60,8 @@ class Carouselcomponent extends Component {
             />
 
             <Carousel.Caption className="text-right h-50">
-              <h3>Conectividad</h3>
-              <p>
+              <h2>Conectividad</h2>
+              <p className="text">
               Establecemos vinculos sociales que hacen crecer y nos hacen crecer.
               </p>
             </Carousel.Caption>
